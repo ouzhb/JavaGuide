@@ -138,6 +138,12 @@
 - [公司真题](docs/dataStructures-algorithms/公司真题.md)
 - [回溯算法经典案例之N皇后问题](docs/dataStructures-algorithms/Backtracking-NQueens.md)
 
+## 服务器
+
+### Openresty
+
+* [使用Openresty构建认证网关](docs/server/Openresty/使用Openresty构建认证网关.md)
+
 ## 数据库
 
 ### MySQL
